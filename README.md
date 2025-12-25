@@ -1,2 +1,2 @@
-# Perpustakaan-SMAN-03-Slawi
-website perpustakaan sma n 01
+# Perpustakaan SMAN 03 Slawi
+E-library SMAN 03 Slawi
